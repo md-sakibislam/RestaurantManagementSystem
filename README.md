@@ -39,9 +39,6 @@ git clone https://github.com/md-sakibislam/RestaurantManagementSystem.git
 
 cd RestaurantManagementSystem
 
-Usage
-[Provide a brief guide on how to use the application. You can include screenshots or GIFs if you wish.]
-
 Admin/Staff: Log in with administrative credentials to manage menus, process orders, and handle reservations.
 
 Customer: Browse the menu, place orders, and make table reservations.
