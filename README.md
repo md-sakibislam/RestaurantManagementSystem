@@ -36,6 +36,7 @@ To get a local copy up and running, follow these simple steps.
 Clone the repository:
 
 git clone https://github.com/md-sakibislam/RestaurantManagementSystem.git
+
 cd RestaurantManagementSystem
 
 Usage
